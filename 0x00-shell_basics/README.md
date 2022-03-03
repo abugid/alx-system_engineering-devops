@@ -17,3 +17,4 @@
 16 delete files ending in ~
 17 create a tree dir
 18 list files separated by commas
+19 create magic file
