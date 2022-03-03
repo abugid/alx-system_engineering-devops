@@ -4,3 +4,4 @@
 3 list long format
 4 list hidden files as well
 5 list uid numerically
+6 create directory
