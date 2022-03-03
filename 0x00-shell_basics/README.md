@@ -11,3 +11,4 @@
 10 change dir to previous
 11 list three dirs at once
 12 print type of file
+13 create symbolic link
