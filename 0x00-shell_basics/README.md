@@ -8,3 +8,4 @@
 7 move file
 8 delete file
 9 delete directory
+10 change dir to previous
