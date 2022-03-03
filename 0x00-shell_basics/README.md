@@ -16,3 +16,4 @@
 15 move files beginning with an uppercase letter 
 16 delete files ending in ~
 17 create a tree dir
+18 list files separated by commas
