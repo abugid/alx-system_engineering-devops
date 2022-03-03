@@ -15,3 +15,4 @@
 14 copy multiple files
 15 move files beginning with an uppercase letter 
 16 delete files ending in ~
+17 create a tree dir
