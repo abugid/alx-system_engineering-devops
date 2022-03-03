@@ -6,3 +6,4 @@
 5 list uid numerically
 6 create directory
 7 move file
+8 delete file
