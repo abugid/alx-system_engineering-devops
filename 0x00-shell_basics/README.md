@@ -5,3 +5,4 @@
 4 list hidden files as well
 5 list uid numerically
 6 create directory
+7 move file
