@@ -12,3 +12,7 @@
 11 add execute permissions to subdirectories
 12 create a dir with permission 751
 13 change group ownership
+14 change owner and group for a directory
+15 change owner and group of symbolic link
+16 change ownership if only it is owned by a specific user
+17 play starwars iv
