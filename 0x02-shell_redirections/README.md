@@ -15,3 +15,4 @@
 14 search for a file with a specific pattern
 15 count the number of lines that contain a specific pattern
 16 print lines matching a pattern with trailing context
+17 print lines that dont match a specific pattern
