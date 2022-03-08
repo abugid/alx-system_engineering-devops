@@ -8,3 +8,4 @@
 7 create and modify a file with a complex name
 8 write a command output to a file
 9 duplicate last line of file
+10 delete a specific file type recursively
