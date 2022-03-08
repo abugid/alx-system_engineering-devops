@@ -24,3 +24,4 @@
 23 list all empty files and directories recursively
 24 list gif files recursively
 25 Decode acrostic
+26 parse web servers
