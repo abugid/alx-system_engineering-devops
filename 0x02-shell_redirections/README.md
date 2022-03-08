@@ -6,3 +6,4 @@
 5 print the first 10 lines of a file
 6 print a specific line from a file
 7 create and modify a file with a complex name
+8 write a command output to a file
