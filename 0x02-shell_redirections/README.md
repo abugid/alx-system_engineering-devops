@@ -12,3 +12,4 @@
 11 count number of directories and subdirectories in working directory
 12 print the 10 newest files
 13 print sorted unique words
+14 search for a file with a specific pattern
