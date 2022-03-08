@@ -19,3 +19,4 @@
 18 print lines that start with a letter
 19 find and replace characters in a file
 20 delete specific characters from a file
+21 reverse an input from file
