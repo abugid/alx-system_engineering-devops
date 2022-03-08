@@ -21,3 +21,4 @@
 20 delete specific characters from a file
 21 reverse an input from file
 22 list users with their home directories
+23 list all empty files and directories recursively
