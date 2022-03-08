@@ -5,3 +5,4 @@
 4 print the last 10 lines of a file
 5 print the first 10 lines of a file
 6 print a specific line from a file
+7 create and modify a file with a complex name
