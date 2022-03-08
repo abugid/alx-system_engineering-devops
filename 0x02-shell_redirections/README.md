@@ -20,3 +20,4 @@
 19 find and replace characters in a file
 20 delete specific characters from a file
 21 reverse an input from file
+22 list users with their home directories
