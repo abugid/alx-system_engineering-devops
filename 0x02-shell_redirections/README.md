@@ -23,3 +23,4 @@
 22 list users with their home directories
 23 list all empty files and directories recursively
 24 list gif files recursively
+25 Decode acrostic
