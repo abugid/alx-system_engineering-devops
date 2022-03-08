@@ -9,3 +9,4 @@
 8 write a command output to a file
 9 duplicate last line of file
 10 delete a specific file type recursively
+11 count number of directories and subdirectories in working directory
