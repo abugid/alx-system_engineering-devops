@@ -10,3 +10,4 @@
 9 divide two env variables
 10 raise one variable by another
 11 convert binary to decimal
+12 combine lowercase letters with an exception
