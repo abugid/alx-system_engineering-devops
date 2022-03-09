@@ -5,3 +5,4 @@
 4 print environment variables
 5 print local and environment variables and functions
 6 create new local variable
+7 create new global variable
