@@ -8,3 +8,4 @@
 7 create new global variable
 8 add integer with env variable
 9 divide two env variables
+10 raise one variable by another
