@@ -13,3 +13,6 @@
 12 combine lowercase letters with an exception
 13 print number to two decimal places
 14 convert decimal to hexadecimal
+15 encode text using the rot13 encryption
+16 print every other line
+17 add numbers and print the result
