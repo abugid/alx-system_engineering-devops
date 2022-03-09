@@ -11,3 +11,4 @@
 10 raise one variable by another
 11 convert binary to decimal
 12 combine lowercase letters with an exception
+13 print number to two decimal places
