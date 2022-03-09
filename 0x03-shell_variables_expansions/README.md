@@ -12,3 +12,4 @@
 11 convert binary to decimal
 12 combine lowercase letters with an exception
 13 print number to two decimal places
+14 convert decimal to hexadecimal
