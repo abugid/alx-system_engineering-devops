@@ -2,13 +2,13 @@
 
 function con_k {
 	echo "I hate the kill command"
-	rm -f /var/run/myscript.pid
+	sudo rm -f /var/run/myscript.pid
 	exit 1
 }
 function con_c {
 	echo "Y U no love me?!"
 }
-echo $$ > /var/run/myscript.pid
+echo $$ | sudo tee /var/run/myscript.pid > /dev/null
 while :
 do
 	echo "To infinity and beyond"
