@@ -3,3 +3,4 @@
 2 show PID of bash
 3 show PID of bash more simply
 4 print message infinitely
+5 kills a process
