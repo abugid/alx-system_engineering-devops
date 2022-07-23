@@ -5,3 +5,4 @@
 4 print message infinitely
 5 kills a process
 6 kills a process without kill command
+7 infinte message that is invincible to SIGTERM
