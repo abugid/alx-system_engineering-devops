@@ -6,3 +6,4 @@
 5 kills a process
 6 kills a process without kill command
 7 infinte message that is invincible to SIGTERM
+8 kills process with SIGKILL
