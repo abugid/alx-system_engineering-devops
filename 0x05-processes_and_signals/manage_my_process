@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # process to be managed
 
-while:
+while :
 do
 	echo "I am alive!" > /tmp/my_process
 	sleep 2
