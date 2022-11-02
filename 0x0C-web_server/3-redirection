@@ -3,5 +3,5 @@
 sudo apt install -y nginx
 sudo service nginx start
 new_string="server_name _;\n\trewrite ^\/redirect_me$ http:\/\/google.com permanent;"
-sed -i "s/server_name _;/$new_string/" /etc/nginx/sites-available/default
+sudo sed -i "s/server_name _;/$new_string/" /etc/nginx/sites-available/default
 sudo service nginx restart
