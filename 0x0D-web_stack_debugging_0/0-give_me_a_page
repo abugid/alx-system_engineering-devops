@@ -3,4 +3,4 @@
 sudo apt update
 sudo apt install -y apache2
 sudo service apache2 start
-ech "Hello Holberton" > /var/www/html/index.html
+echo "Hello Holberton" > /var/www/html/index.html
